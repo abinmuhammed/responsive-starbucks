@@ -494,3 +494,14 @@ opacity:90% ;
 
     }
      
+
+    @media only screen and (min-width: 300px) and (max-width: 767px) {
+.div6{
+    margin-left: 9px;
+}
+.rights{
+    margin-left: 23px;
+}
+
+    }
+      
