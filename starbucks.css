@@ -1,0 +1,496 @@
+
+
+
+body{
+    overflow-x: hidden;
+margin: 0ch;
+
+}
+
+
+
+
+
+
+
+
+
+.navdiv{
+    width: 100%;
+}
+
+.div2{
+    font-size: 12px;
+    float: left;
+    margin-left: 43px;
+    font-weight: bold;
+    height: 55px;
+}
+
+
+.hand{
+    height: 600px;
+
+}
+
+
+.delight{
+    box-sizing: border-box;
+    padding-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.del{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.letus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+}
+
+
+.fb{
+    color: black;
+ 
+}
+
+.icon{
+    float: left;
+   
+    font-size: 41px;
+   
+    opacity: 70%;
+}
+.icon1{
+    float: left;
+  
+    font-size: 41px;
+    
+    opacity: 70%;
+
+}
+.icon2{
+
+    float: left;
+  
+    font-size: 39px;
+  
+    opacity: 70%;   
+
+}
+
+
+
+.our{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 15px;
+     
+}
+.our1{
+    font-weight:bold;
+     
+}
+
+.icontab{
+
+background-color: #f0f0f0;
+
+}
+.star{
+height: 130px;
+}
+
+
+.dist{
+    margin-left: 100px;
+}
+
+
+.image{
+    height: 600px;
+    background-image: url(images/hand\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.image1{
+    height: 600px;
+    background-image: url(images/monsoon_delights_web_2400X560\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.image2{
+ 
+    height: 600px;
+    background-image: url(images/tropical_favourite_web_2400X560\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.image3{
+    height: 600px;
+    background-image: url(images/scoope-banner4\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.image4{
+    height: 600px;
+    background-image: url(images/Desktop_Mobile_Order_and_Pay_tcm87-64504\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image5{
+    height: 600px;
+    background-image: url(images/shopnow.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+@media screen and (max-width: 1024px) {
+  
+    .image{
+    
+     width: 1030px;;
+     height: 486px;
+     
+    }
+    .image1{
+        width: 1030px;
+        height: 486px;
+    }
+.image2{
+    width: 1030;
+}
+
+.image3{
+    
+    width: 1030px;;
+    height: 486px;
+    
+   }
+   .image4{
+       width: 1030px;
+       height: 486px;
+   }
+   .image5{
+    width: 1030px;
+    height:486px ;
+   }
+
+}
+
+
+  @media screen and (max-width: 768px) {
+    
+    .image{
+    
+    
+     height: 385px;
+     
+    }
+    .image1{
+        height: 385px;
+    }
+    .image2{
+        height: 385px;
+    }
+    .image3{
+    
+    
+        height: 385px;
+        
+       }
+       .image4{
+           height: 385px;
+       }
+       .image5{
+        height: 385px;
+       }
+  
+  
+   }
+ 
+
+   .star{
+    height: 118px;
+   }
+
+   
+  
+
+@media screen and (min-width: 767px){
+    .txtftr{
+        font-size: 1.1vw;
+    width: auto;
+        border-right: 1px solid black;
+       }
+}
+@media screen and (max-width: 767px) {
+
+
+.star{
+    display: none;
+}
+.store{
+    display: none;
+}
+
+}
+
+   
+  
+  @media screen and (max-width: 515px) {
+  
+  
+
+    .image{
+     background-image: url(large/register4.jpg);
+     height: 600px;
+     
+    }
+    .image1{
+        background-image: url(large/monsoon_delights_web_640x900.jpg);
+        height: 600px;
+        
+    }
+    .image2{
+        background-image: url(large/thrdone.jpg);
+        height: 600px;
+        
+    }
+    .image3{
+        background-image: url(large/scoope-banner2.png);
+        height: 600px;
+        
+    }
+    .image4{
+        background-image: url(large/Mobile_Mobile_Order_and_Pay_tcm87-64505.png);
+        height: 600px;
+        
+    }
+    .image5{
+        background-image: url(large/app_revised_tcm87-72097.jpg);
+        height: 600px;
+
+    }
+  
+   
+     }
+     @media screen and (max-width: 371px) {
+    
+      .image{
+      height: 700px;
+      width: 450px;
+      }
+
+      .image1{
+        height:700px;
+        width: 450px;
+        
+      }
+      .image2{
+        height:700px;
+        width: 450px;
+        
+      }
+      
+      .image3{
+        height:700px;
+        width: 450px;
+        
+      }
+      .image4{
+        height:700px;
+        width: 450px;
+        
+      }
+      .image5{
+        height: 700px;
+        width: 450px;
+      }
+     
+       }
+       @media screen and (max-width: 334px) {
+    
+        .image{
+        height: 600px;
+        width: 334px;
+       
+         
+         
+        }
+        .image1{
+            height: 600px;
+            width: 334px;
+           
+             
+             
+            }
+            .image2{
+                height: 600px;
+                width: 334px;
+               
+                 
+                 
+                }
+                .image3{
+                    height: 600px;
+                    width: 334px;
+                   
+                     
+                     
+                    }
+                    .image4{
+                        height: 600px;
+                        width: 334px;
+                       
+                         
+                         
+                        }.image5{
+                            height: 600px;
+                            width: 334px;
+                           
+                             
+                             
+                            }
+                           
+        }
+         
+
+        .size{
+            font-size: .9rem;
+        }
+
+.rights{
+    font-size: 70%;
+}
+
+
+
+
+.store{
+    text-decoration: none;
+    color: black;    
+    opacity:80% ;
+}
+.loc{
+    color: #016341;
+}
+
+.header1{
+    height: 12px;
+    
+    background-color: #016341;
+}
+
+
+.list2 li{
+
+letter-spacing: 4px;
+font-size: 8px;
+font-weight: bold;
+
+
+}
+
+@media screen and (max-width: 976px) {
+
+    .list2 li{
+    font-size: 15px;
+    font-weight: bold;
+    
+    }
+    
+    }
+
+@media screen and (min-width: 1344px) {
+
+.list2 li{
+font-size: 15px;
+font-weight: bold;
+
+}
+
+}
+
+      
+  
+    @media only screen and (min-width: 1196px) and (max-width: 1344px) {
+      
+
+        .list2 li{
+            font-size: 12px;
+            font-weight:800;
+            
+            }
+            
+
+    }
+     
+    @media only screen and (min-width:1090px ) and (max-width: 1196px) {
+      
+
+        .list2 li{
+            font-size: 10px;
+            font-weight:bold;
+            
+            }
+            
+
+    }
+
+
+.link{
+
+color:black;
+font-weight: 400;
+opacity:90% ;
+
+
+}
+
+@media screen and (max-width: 425px) {
+
+  .store{
+    display: none;
+    
+
+  }
+    
+  .loc{
+    margin-top: 42px;
+  }
+    }
+
+
+
+    @media only screen and (min-width: 425px) and (max-width: 989px) {
+      
+
+   .loc{
+    margin-top: 42px;
+
+   }
+   .store{
+    margin-top: 42px;
+   }
+
+    }
+     
